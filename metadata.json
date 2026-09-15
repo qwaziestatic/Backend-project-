@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Backend API",
+  "description": "A robust Node.js and Express backend for an e-commerce platform, featuring a SQL database for products, users, and orders.",
+  "requestFramePermissions": []
+}
